@@ -1,1 +1,1 @@
-# INFINITE-RUNNER-GAME-2
+# monkey-go-happy
